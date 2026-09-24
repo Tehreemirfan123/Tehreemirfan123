@@ -238,6 +238,8 @@ A production-grade computer vision system for detecting and tracking PPE violati
 **Technologies:** YOLOv8/v11, PyTorch, FastAPI, PostgreSQL, pgvector, ByteTrack, OpenVINO, Docker, Streamlit
 
 <div align="center">
+  <img src="./assets/project-images/ppe-compliance-system.jpg" width="720" alt="GitHub Repository Optimizer">
+      <br>
       <strong align="center">
         <a href="https://github.com/Tehreemirfan123/Real-Time_PPE_Compliance_Monitoring_System">
           View Repo
