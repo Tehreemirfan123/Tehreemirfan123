@@ -43,9 +43,9 @@
 
 ## 👋 Who I Am
 
-I'm **Tehreem Irfan**, an **Associate Software Engineer** and **Computer Science graduate** from Pakistan with a passion for engineering intelligent software that solves real-world problems.
+I'm **Tehreem Irfan**, a **Software Engineer** and **Computer Science graduate** from Pakistan with a passion for engineering intelligent software that solves real-world problems.
 
-My work focuses on building **production-grade AI systems** by combining **Agentic AI, Large Language Models, Computer Vision, scalable backend architecture, and workflow automation**. I enjoy designing software that is not only functional but also reliable, scalable, and ready for real-world use.
+My work focuses on building **production-grade AI systems** by combining **Agentic AI, Large Language Models, Computer Vision, scalable backend architecture, and systematic workflows**. I enjoy designing software that is not only functional but also reliable, scalable, and ready for real-world use.
 
 Currently, I'm expanding my expertise in **Multi-Agent AI, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), advanced AI orchestration, and modern cloud-native architectures** while continuously building practical AI products.
 
@@ -129,7 +129,7 @@ I believe great software is built through continuous iteration:
 <td align="right"><b>🧠 LLM & Agentic AI</b></td>
 <td>
 
-OpenAI • Claude • Gemini • LangChain • MCP • RAG • pgvector 
+OpenAI • Claude • Gemini • MCP • RAG • pgvector 
 
 </td>
 </tr>
@@ -138,7 +138,7 @@ OpenAI • Claude • Gemini • LangChain • MCP • RAG • pgvector
 <td align="right"><b>⚡ Backend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,postman" />
 
 </td>
 </tr>
@@ -156,7 +156,7 @@ OpenAI • Claude • Gemini • LangChain • MCP • RAG • pgvector
 <td align="right"><b>☁️ Cloud & DevOps</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ OpenAI • Claude • Gemini • LangChain • MCP • RAG • pgvector
 <td align="right"><b>🎨 Frontend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
 </td>
 </tr>
@@ -176,11 +176,13 @@ OpenAI • Claude • Gemini • LangChain • MCP • RAG • pgvector
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" />
 &nbsp;
+<a href="https://iconscout.com/icons/google-antigravity" class="text-underline font-size-sm"> </a>&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" />
 &nbsp;
-<a href="https://iconscout.com/icons/google-antigravity" class="text-underline font-size-sm"> </a> 
+
 
 </td>
 </tr>
@@ -268,7 +270,7 @@ A multi-agent sales workflow combining research, outreach assistance, pre-call r
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tehreemirfan123&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph-iota-azure.vercel.app/graph?username=Tehreemirfan123&theme=tokyo-night&hide_border=true"
     alt="Tehreem's GitHub contribution activity graph"
     width="100%"
   />
